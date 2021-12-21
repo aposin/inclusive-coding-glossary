@@ -12,8 +12,9 @@ old term | inclusive coding recommendation
 ------------ | -------------
 blacklist | blocklist
 whitelist | allowlist
-master/slave | primary/replica (or worker)
+master / slave | primary / replica (or worker)
 master branch | main branch
+master / detail | selection / detail
 
 ## Contributing
 To contribute just create a pull request or start a discussion within an issues.
